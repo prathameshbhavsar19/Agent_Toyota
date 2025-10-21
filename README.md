@@ -1,0 +1,2 @@
+# Agent_Toyota
+AgentToyota is an intelligent web application that helps customers find personalized Toyota financing and leasing options based on their income, credit score, and lifestyle preferences.   It is built using **FastAPI (Python)** for the backend and **React** for the frontend, with **SQLite** for data storage.   The system generates instant financing simulations, model recommendations, and personalized insights 
